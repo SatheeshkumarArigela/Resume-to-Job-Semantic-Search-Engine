@@ -1,7 +1,6 @@
 """
 Resume-to-Job Semantic Search Engine
-Stack: Streamlit + Gemini embeddings (free tier) + FAISS
-Run:   streamlit run app.py
+
 """
 import os
 import re
